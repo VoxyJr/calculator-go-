@@ -1,3 +1,4 @@
+
 Calculator- Go!
 A Simple Calculator in Go
 Getting Started:
@@ -17,4 +18,13 @@ Run the calculator executable from your terminal.
      
 Contributing:
 Want to improve the calculator? Feel free to fork the repository, make changes, and submit a pull request.
-Let's build something cool together!
+Let's build something cool toget
+# calculator-go
+this a caculator for android,windows and linux that allows AI handnotes
+
+## features
+   - handnotes
+   - precalculus functions
+   - simple mode
+   - trigonometric functions
+   - keybard s
