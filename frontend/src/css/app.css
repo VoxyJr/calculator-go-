@@ -14,17 +14,16 @@
 }
 
 @media (prefers-color-scheme:dark) {
+.theme {
+ --light:#ffffff;
+  --light02: #333333;
+  --light03: #666666;
+  --accent02: #F15025; /* Consider adjusting for better contrast on dark background */
+  --accent: #FF9D97; /* Consider adjusting for better contrast on dark background */
+  --bg: #191919;
+  --black: #000000;
+  }
 
-
-    .theme {
-        --light: #FFFFFF;
-        --light02: #E6E8E6;
-        --light03: #CED0CE;
-        --accent02: #F15025;
-        --accent: #FF9D97;
-        --bg: #191919;
-        --black: #000;
-    }
 }
 
 .hide {
